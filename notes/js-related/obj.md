@@ -95,8 +95,11 @@ ownPropertyKeys，
 在项目中试了前面两种方法，不知道是否有其他的条件要求，还是本身实现不了输出object属性的顺序问题，最终没有实现。
 是通过Object.keys(obj).sort((a,b)=>a.charCodeAt(0)-b.charCodeAt(0)),加了排序才实现了这个要求
 
+<<<<<<< HEAD
 参考链接：
 
+=======
+>>>>>>> 3586a7ea9d10a6280097af95b47efdea30a65f86
 1.[js能够保证object属性的输出顺序吗？](http://jartto.wang/2016/10/25/does-js-guarantee-object-property-order/)
 
 2.[Object.keys(..)对象属性的顺序？](https://juejin.im/post/6844903796062191624)
