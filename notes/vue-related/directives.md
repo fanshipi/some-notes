@@ -1,5 +1,7 @@
 # Basic
 
+可通过directives局部注册/全局注册自定义指令.
+
 **v-slot**
 
 1. 默认内容
